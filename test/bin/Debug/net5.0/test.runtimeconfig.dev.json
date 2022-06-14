@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/napalm/.dotnet/store/|arch|/|tfm|",
+      "/root/.nuget/packages"
+    ]
+  }
+}

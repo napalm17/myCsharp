@@ -1,0 +1,16 @@
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.csproj.AssemblyReference.cache
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.AssemblyInfoInputs.cache
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.AssemblyInfo.cs
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.csproj.CoreCompileInputs.cache
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/collections
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/collections.deps.json
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/collections.runtimeconfig.json
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/collections.runtimeconfig.dev.json
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/collections.dll
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/ref/collections.dll
+/home/napalm/Coding/myCsharp/collections/bin/Debug/net5.0/collections.pdb
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.dll
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/ref/collections.dll
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.pdb
+/home/napalm/Coding/myCsharp/collections/obj/Debug/net5.0/collections.genruntimeconfig.cache

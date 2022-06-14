@@ -1,0 +1,16 @@
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/string_reversal
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/string_reversal.deps.json
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/string_reversal.runtimeconfig.json
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/string_reversal.runtimeconfig.dev.json
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/string_reversal.dll
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/ref/string_reversal.dll
+/home/napalm/Coding/myCsharp/string_reversal/bin/Debug/net5.0/string_reversal.pdb
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.csproj.AssemblyReference.cache
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.GeneratedMSBuildEditorConfig.editorconfig
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.AssemblyInfoInputs.cache
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.AssemblyInfo.cs
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.csproj.CoreCompileInputs.cache
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.dll
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/ref/string_reversal.dll
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.pdb
+/home/napalm/Coding/myCsharp/string_reversal/obj/Debug/net5.0/string_reversal.genruntimeconfig.cache

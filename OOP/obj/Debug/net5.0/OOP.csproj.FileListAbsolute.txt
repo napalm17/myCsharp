@@ -1,0 +1,16 @@
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/OOP
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/OOP.deps.json
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/OOP.runtimeconfig.json
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/OOP.runtimeconfig.dev.json
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/OOP.dll
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/ref/OOP.dll
+/home/napalm/Coding/myCsharp/OOP/bin/Debug/net5.0/OOP.pdb
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.csproj.AssemblyReference.cache
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.AssemblyInfoInputs.cache
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.AssemblyInfo.cs
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.dll
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/ref/OOP.dll
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.pdb
+/home/napalm/Coding/myCsharp/OOP/obj/Debug/net5.0/OOP.genruntimeconfig.cache

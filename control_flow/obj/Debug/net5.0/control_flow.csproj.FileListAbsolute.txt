@@ -1,0 +1,16 @@
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/control_flow
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/control_flow.deps.json
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/control_flow.runtimeconfig.json
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/control_flow.runtimeconfig.dev.json
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/control_flow.dll
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/ref/control_flow.dll
+/home/napalm/Coding/myCsharp/control_flow/bin/Debug/net5.0/control_flow.pdb
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.csproj.AssemblyReference.cache
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.GeneratedMSBuildEditorConfig.editorconfig
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.AssemblyInfoInputs.cache
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.AssemblyInfo.cs
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.csproj.CoreCompileInputs.cache
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.dll
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/ref/control_flow.dll
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.pdb
+/home/napalm/Coding/myCsharp/control_flow/obj/Debug/net5.0/control_flow.genruntimeconfig.cache

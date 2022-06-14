@@ -1,0 +1,16 @@
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/sorting
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/sorting.deps.json
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/sorting.runtimeconfig.json
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/sorting.runtimeconfig.dev.json
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/sorting.dll
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/ref/sorting.dll
+/home/napalm/Coding/myCsharp/sorting/bin/Debug/net5.0/sorting.pdb
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.csproj.AssemblyReference.cache
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.GeneratedMSBuildEditorConfig.editorconfig
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.AssemblyInfoInputs.cache
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.AssemblyInfo.cs
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.csproj.CoreCompileInputs.cache
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.dll
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/ref/sorting.dll
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.pdb
+/home/napalm/Coding/myCsharp/sorting/obj/Debug/net5.0/sorting.genruntimeconfig.cache

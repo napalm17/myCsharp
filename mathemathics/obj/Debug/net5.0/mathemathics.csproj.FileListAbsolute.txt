@@ -1,0 +1,16 @@
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/mathemathics
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/mathemathics.deps.json
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/mathemathics.runtimeconfig.json
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/mathemathics.runtimeconfig.dev.json
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/mathemathics.dll
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/ref/mathemathics.dll
+/home/napalm/Coding/myCsharp/mathemathics/bin/Debug/net5.0/mathemathics.pdb
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.csproj.AssemblyReference.cache
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.GeneratedMSBuildEditorConfig.editorconfig
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.AssemblyInfoInputs.cache
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.AssemblyInfo.cs
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.csproj.CoreCompileInputs.cache
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.dll
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/ref/mathemathics.dll
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.pdb
+/home/napalm/Coding/myCsharp/mathemathics/obj/Debug/net5.0/mathemathics.genruntimeconfig.cache
